@@ -2,4 +2,4 @@
 
 ## Getting Started 
 
-To run the code just type ```python main.py``` in your command line or terminal.
+To run the code just type ```python main.py``` in your command line (or) terminal.
